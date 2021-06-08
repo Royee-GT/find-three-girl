@@ -1,0 +1,9 @@
+#data-panel {
+    display: flex;
+    flex-flow: row wrap;
+  }
+  .girls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
